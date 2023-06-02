@@ -1,5 +1,5 @@
 <?php
-namespace Shuchkin;
+namespace Chientd;
 
 /*
  * Example
