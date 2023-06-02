@@ -1,5 +1,5 @@
 {
-  "name": "shuchkin/simplexls",
+  "name": "tdchien/simplexls",
   "description": "Parse and retrieve data from old format Excel XLS files. MS Excel 97 workbooks PHP reader.",
   "keywords": ["php", "excel", "xls", "parser", "backend"],
   "homepage": "https://github.com/shuchkin/simplexls",
